@@ -1,3 +1,3 @@
 # Demo_ReactNative_Project
 
-### This is a Demo project of the React-Native using JavaScript.
+### This is a Demo project for creating a Hybrid application using React-Native and JavaScript.
